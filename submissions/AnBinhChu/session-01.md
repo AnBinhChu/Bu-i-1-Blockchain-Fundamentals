@@ -26,7 +26,6 @@ Paste important commands or output here.
 | Task | Evidence URL | What it proves |
 | --- | --- | --- |
 | <task> | <URL> | <result> |
- |01|
 ## 5. Blockers
 
 What failed, what error appeared, and what will you try next?
