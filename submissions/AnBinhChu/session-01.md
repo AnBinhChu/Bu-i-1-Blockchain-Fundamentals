@@ -1,35 +1,49 @@
-# Session XX - <Title>
+# Session 01 - Blockchain Fundamentals
 
-- Student: <full name>
-- GitHub: [@<username>](https://github.com/<username>)
-- Submitted: YYYY-MM-DD
-- Commit: <URL>
+- Student: Chu An Bình
+- GitHub: https://github.com/AnBinhChu
+- Submitted: 20/10/2026
+- Commit: https://github.com/AnBinhChu/Bu-i-1-Blockchain-Fundamentals
 
 ## 1. Summary
-
-What did you learn in this session?
+-Blockchain là một cơ sở dữ liệu phân cấp cho phép lưu trữ và truyền tải các khối thông tin được bảo vệ bằng mã hóa, đồng thời liên kết chặt chẽ với nhau.
+-Block là một khối dữ liệu chứa thông tin.
+-Chain là chuỗi các block được liên kết với nhau thông qua mã hash.
+-Không phụ thuộc hoàn toàn vào 1 máy chủ, có rất nhiều máy chủ trên khắp thế giới -> khó bị thay đổi.
+*Mô hình tập trung:
+-Quyền kiểm soát, lưu trữ dữ liệu
+(Ngân hàng)
+*Mô hình phi tập trung:
+-Phụ thuộc vào cộng đồng
+*Bitcoin ( ứng dụng của blockchain)
+*Ethereum (mở rộng blockchain đời đầu): Thêm khả năng build ứng dụng bằng smart contract
+*Blockchain mở ra những ứng dụng trong đời sống ( gaming, y tế, giáo dục, cung ứng, tài chính,...)
 
 ## 2. Topic notes
 
-Answer the session questions in your own words. Use links for external sources.
-
+-block là một khối dữ liệu chứa thông tin
+-Chain là chuỗi các block được liên kết với nhau thông qua mã hash
+-Không phụ thuộc hoàn toàn vào 1 máy chủ, có rất nhiều máy chủ trên khắp thế giới -> khó bị thay đổi
+*Mô hình tập trung:
+-Quyền kiểm soát, lưu trữ dữ liệu
+(Ngân hàng)
+*Mô hình phi tập trung:
+-Phụ thuộc vào cộng đồng
+*Bitcoin ( ứng dụng của blockchain)
+*Ethereum (mở rộng blockchain đời đầu): Thêm khả năng build ứng dụng bằng smart contract
+*Blockchain mở ra những ứng dụng trong đời sống ( gaming, y tế, giáo dục, cung ứng, tài chính,...)
 ## 3. Work completed
 
-List the commands, steps, code, or experiments you performed.
 
-```text
-Paste important commands or output here.
-```
 
 ## 4. Evidence
 
-| Task | Evidence URL | What it proves |
-| --- | --- | --- |
-| <task> | <URL> | <result> |
+https://drive.google.com/file/d/1uXzB10V32DT54yCEbXpN1M3gcOn4Ps0d/view?usp=sharing
+
 ## 5. Blockers
 
-What failed, what error appeared, and what will you try next?
+
 
 ## 6. Takeaway
 
-One short paragraph connecting this session to the next one.
+
