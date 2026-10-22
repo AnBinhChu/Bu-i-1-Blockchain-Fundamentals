@@ -3,7 +3,7 @@ How Blockchain Works
 - Student: Chu An Bình
 - GitHub: https://github.com/AnBinhChu
 - Submitted: 22/10/2026
-- Commit: https://github.com/AnBinhChu/Bu-i-1-Blockchain-Fundamentals
+- Commit: https://github.com/AnBinhChu/Dev-lock-bootcamp
 
 ## 1. Summary
 -Cấu trúc của blockchain.
