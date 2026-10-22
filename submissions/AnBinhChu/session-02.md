@@ -34,7 +34,7 @@ How Blockchain Works
 
 
 ## 3. Work completed
-https://docs.google.com/document/d/1SN8pxprJVdwTBz-nprpsb9XsWWeOBCD_NByEZZMYys0/edit?usp=sharing
+
 
 
 ## 4. Evidence
